@@ -2,7 +2,7 @@
 
 No Frameworks/Libraries(BootStrap, jQuery, react etc) were harmed while coding the project.
 
-The project is deployed here https://sasigit7.github.io/ChinguPreWorkTier1/
+The project is deployed here https://chingupreworktier1v13.netlify.com/
 
 Objective of the Project:
 
